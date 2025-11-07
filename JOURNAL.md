@@ -13,3 +13,18 @@ Today I started with the schematic. I know I had chosen ESP32-C5 Module. But it 
 ![SCH_Schematic1_1-P1_2025-11-06](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--537f1ccb4c98e4ff086fdcd280b2dbadeac90546/SCH_Schematic1_1-P1_2025-11-06.png)
   
 
+## 11/7/2025 - Schematic + PCB  
+
+Today I continued with the schematic and did most of the routing work. I made a mistake while choosing the 3v3 regulator and will have to change that tomorrow. Anyways, here's the work done today
+
+
+![SCH_Schematic1_1-P1_2025-11-07](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--a36aa5d7f674e5e5ce867ca9497659904789fd19/SCH_Schematic1_1-P1_2025-11-07.png)
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--171e7d2710df097a4535a6ab842e0be85bd713d3/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--5d92e3b76acf0f0b9f8687a1c361be117363a4c5/image.png)
+
+![3D_PCB1_2025-11-07](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE0MywicHVyIjoiYmxvYl9pZCJ9fQ==--fe8cfbe1daf8790188c5f1cf97793d6d5f1b60dd/3D_PCB1_2025-11-07.png)
+  
+
