@@ -28,3 +28,15 @@ Today I continued with the schematic and did most of the routing work. I made a 
 ![3D_PCB1_2025-11-07](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE0MywicHVyIjoiYmxvYl9pZCJ9fQ==--fe8cfbe1daf8790188c5f1cf97793d6d5f1b60dd/3D_PCB1_2025-11-07.png)
   
 
+## 11/8/2025 - LDO change  
+
+Change the old 3v3 regulator from TLV7333 (300mA) to TLV75733 (1A). Completed the PCB too. Also, There were a couple of DRC errors to solve. Here's the images regarding the progress. I will do the silksreen later.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM1NywicHVyIjoiYmxvYl9pZCJ9fQ==--1d60283634b789ad610e05fb6760077028f90f89/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6c43c10ed396fa589f55d98722a14afc09564ca8/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--fb01b6a181ba28b9fd036ff8beeef2822832b5d9/image.png)
+
+  
+
